@@ -1,0 +1,1 @@
+{"kl_ratio": 0.001, "adam_alpha": 0.0003, "latent_width": 40, "rectifier": "clipped_relu", "decode_layers": [300, 800, 1000], "img_width": 64, "adam_beta1": 0.9, "img_height": 64, "encode_layers": [1000, 600, 300], "flag_gpu": true, "color_channels": 62, "mode": "convolution"}

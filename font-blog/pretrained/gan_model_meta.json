@@ -1,0 +1,1 @@
+{"latent_width": 2, "rectifier": "sigmoid", "decode_layers": [300, 800, 1000], "disc_layers": [1000, 600, 300], "img_width": 64, "flag_gpu": true, "color_channels": 1, "dec_adam_beta1": 0.5, "dropout_ratio": 0.5, "dec_adam_alpha": 0.0003, "disc_adam_beta1": 0.5, "disc_adam_alpha": 0.0001, "img_height": 64, "mode": "convolution"}
